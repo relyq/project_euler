@@ -2,7 +2,6 @@
 # https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic
 # https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 # https://en.wikipedia.org/wiki/Primality_test
-# https://en.wikipedia.org/wiki/Sieve_of_Atkin 
 
 import argparse
 
